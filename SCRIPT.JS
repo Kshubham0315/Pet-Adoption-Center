@@ -1,1 +1,0 @@
-const buttons = document.querySelectorAll('form.htm.open-page');
